@@ -1,0 +1,7 @@
+langchain_community
+langgraph
+langchain_core
+langchain
+bs4
+flask
+flask_cors
