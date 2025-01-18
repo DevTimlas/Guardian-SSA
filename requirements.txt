@@ -7,3 +7,4 @@ flask
 flask_cors
 langchain_openai
 lxml
+chromadb
