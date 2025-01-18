@@ -6,3 +6,4 @@ bs4
 flask
 flask_cors
 langchain_openai
+lxml
